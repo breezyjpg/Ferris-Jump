@@ -40,7 +40,7 @@ FerrisJump/
 │   ├── background.png
 │   ├── crab.png
 │   ├── plate.png
-│── game.py
+│── main.py
 │── README.md
 ```
 
